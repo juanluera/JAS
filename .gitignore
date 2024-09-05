@@ -1,0 +1,8 @@
+client/dist/bundle.js
+node_modules/
+.env
+client/src/GoogleApi.js
+client/src/ScriptCache.js
+client/src/components/modules/GoogleApiComponent.js
+client/src/components/modules/Map.js
+client/src/components/modules/Container.js
